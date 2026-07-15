@@ -1,0 +1,39 @@
+{
+  "habits": {
+    "Workout": "Gym, running, or home workout session",
+    "Meditation": "10-15 minutes of mindfulness",
+    "Reading": "Reading a book or educational articles"
+  },
+  "logs": [
+    {
+      "date": "2026-07-10",
+      "habit": "Workout",
+      "completed": true,
+      "notes": "Day 1"
+    },
+    {
+      "date": "2026-07-11",
+      "habit": "Workout",
+      "completed": true,
+      "notes": "Day 2"
+    },
+    {
+      "date": "2026-07-12",
+      "habit": "Workout",
+      "completed": true,
+      "notes": "Day 3"
+    },
+    {
+      "date": "2026-07-14",
+      "habit": "Workout",
+      "completed": true,
+      "notes": "Day 4"
+    },
+    {
+      "date": "2026-07-15",
+      "habit": "Workout",
+      "completed": true,
+      "notes": "Day 5 (Today)"
+    }
+  ]
+}
